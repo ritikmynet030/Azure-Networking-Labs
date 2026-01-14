@@ -66,8 +66,8 @@ to control traffic between subnets, aligned with **AZ-104 (Microsoft Azure Admin
 ## 🧪 Validation Tests
 
 ### From Linux VM (WebSubnet)
-``bash/powersehll
-curl http://<WINDOWS_PRIVATE_IP>
+bash/powersehll
+- curl http://<WINDOWS_PRIVATE_IP>
 
 ---
 
